@@ -42,7 +42,7 @@
 
 ---
 # 📈 GitHub Stats
-![Deepika's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabasdeepika&show_icons=true&theme=radical)
+![Deepika's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabasdeepika&show_icons=true&theme=dark)
 
 ---
 
