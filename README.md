@@ -41,6 +41,10 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
+# 📈 GitHub Stats
+![Deepika's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabasdeepika&show_icons=true&theme=radical)
+
+---
 
 # ✍️ Random Dev Quote
 "Programming isn’t about what you know; it’s about what you can figure out." – Chris Pine
