@@ -39,10 +39,5 @@
 
 ---
 
-# 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dabasdeepika&layout=compact&theme=radical)
-
----
-
 # ✍️ Random Dev Quote
 "Programming isn’t about what you know; it’s about what you can figure out." – Chris Pine
