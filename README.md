@@ -1,8 +1,11 @@
 # 💫 About Me:
 
 🎓 BTech CSE (AI & ML) student
+
 🧠 Currently learning React, Next.js & Artificial Intelligence
+
 🚀 Building practical projects & growing every day 
+
 🎨 Fun fact: I love exploring tech, dancing and cooking
 
 ---
