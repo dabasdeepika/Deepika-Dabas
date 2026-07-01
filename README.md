@@ -11,7 +11,7 @@
 ---
 
 # 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/deepika-dabas-125852326)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deepika-dabas-125852326)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:dabasdeepika77@gmail.com)
 
 ---
