@@ -23,23 +23,30 @@
 ---
 
 ## 💻 Languages
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
 </p>
 
 ## 🚀 Frameworks & Libraries
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,rasa,pandas,numpy,scikitlearn" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask" />
+</p>
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=rasa,pandas,numpy,scikitlearn" />
 </p>
 
 ## 🗄️ Databases
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ## 🛠️ Developer Tools
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+<p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,colab,powerbi" />
 </p>
 
