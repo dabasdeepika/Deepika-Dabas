@@ -52,5 +52,22 @@
 
 ---
 
+## 📜 Certifications
+
+✨ **Data Analysis with Python – IBM**  
+🔗 https://drive.google.com/file/d/1kl6Zw-zS1L8eedHDga-bg340dtqa6ltK/view?usp=drivesdk
+
+✨ **Mastering Machine Learning**  
+🔗 https://drive.google.com/file/d/1yQd638OhYnsrQTh4MZq_0vTO_C1q81sF/view?usp=drivesdk
+
+✨ **Neural Network and Deep Learning**  
+🔗 https://drive.google.com/file/d/1s1vSEzpQwYz_smFzE2ZO53NcdYMk6eoa/view?usp=drivesdk
+
+---
+
+## 📈 Contribution Graph
+
+[![Deepika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact)](https://github.com/dabasdeepika)
+
 # ✍️ Random Dev Quote
 "Programming isn’t about what you know; it’s about what you can figure out." – Chris Pine
