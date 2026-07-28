@@ -29,8 +29,7 @@
 
 ## 🚀 Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=rasa,pandas,numpy,scikitlearn" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,rasa,pandas,numpy,scikitlearn" />
 </p>
 
 ## 🗄️ Databases
