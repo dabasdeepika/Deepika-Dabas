@@ -67,7 +67,7 @@
 
 ## 📈 Contribution Graph
 
-[![Deepika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact)](https://github.com/dabasdeepika)
+[![Deepika Dabas' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dabasdeepika&theme=github-compact)](https://github.com/dabasdeepika)
 
 # ✍️ Random Dev Quote
 "Programming isn’t about what you know; it’s about what you can figure out." – Chris Pine
