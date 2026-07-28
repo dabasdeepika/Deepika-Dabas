@@ -1,18 +1,24 @@
 # 💫 About Me:
 
-🎓 BTech CSE (AI & ML) student
+🎓 B.Tech CSE (AI & ML) student at K.R. Mangalam University — Class of 2027
 
-🧠 Currently learning React, Next.js & Artificial Intelligence
+💼 Worked as a Software Developer Intern at Hitachi Systems India Pvt. Ltd.
 
-🚀 Building practical projects & growing every day 
+💻 Exploring software development, full-stack applications, AI-powered solutions, and data-driven technologies.
 
-🎨 Fun fact: I love exploring tech, dancing and cooking
+🚀 Currently building an AI Career Co-Pilot while expanding my portfolio with practical, real-world projects.
+
+✨ Every project is a step toward becoming a better developer—take a look around and explore my work!
+
+🏓 Fun fact: I enjoy playing table tennis, pickleball, and dancing when I'm away from my laptop.
 
 ---
 
 # 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deepika-dabas-125852326)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:dabasdeepika77@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/dabasdeepika/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dabasdeepika.github.io/Portfolio/)
 
 ---
 
